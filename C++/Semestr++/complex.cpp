@@ -13,4 +13,9 @@ class C
         this->re = re;
         this->im = im;
     }
+
+    C(C c)
+    {
+        C(c.re, c.im);
+    }
 };
