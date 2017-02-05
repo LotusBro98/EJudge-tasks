@@ -1,0 +1,33 @@
+timetable:
+ 1:
+  begin: 9.00
+  end: 10.25
+ 2:
+  begin: 10.45
+  end: 12.10
+ 3:
+  begin: 12.20
+  end: 13.45
+ 4:
+  begin: 13.55
+  end: 15.20
+ 5:
+  begin: 15.30
+  end: 16.55
+ 6:
+  begin: 17.05
+  end: 18.30
+
+monday:
+ 1:
+  name: Семинар по матану
+  room: 428 ГК
+ 2:
+  name: Семинар по матану
+  room: 428 ГК
+ 3:
+  name: English
+  room: 317 НК
+ 5:
+  name: Семинар по дискрану
+  room: 415 ГК
